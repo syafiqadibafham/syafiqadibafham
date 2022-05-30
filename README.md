@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @syafiqadibafham
 - 👀 I’m interested in App Development especially using Flutter
+- 🧠 I have experience in Flutter and Native Android Development, and in also UI Design
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-syafiq-adib-muhammad-saufi-13305b211/)
 
 <!---
