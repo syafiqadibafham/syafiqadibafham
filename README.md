@@ -6,10 +6,19 @@
 - Feel free to visit my [Portfolio Website](https://syafiqadibafham.netlify.app/)
 
 ### Languages and Tools
-<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
-<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt=“Flutter” width="100px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" />
+<img align="left" alt=“Dart” width="100px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" />
+<img align="left" alt=“Github” width="100px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" />
+<img align="left" alt=“Python” width="100px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
+<img align="left" alt=“JavaScript” width="100px" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" />
+<img align="left" alt=“CSS” width="100px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" />
+
+<br>
+</br>
+
+### Design Tools
+<img align="left" alt=“XD” width="50px" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/adobe-xd.svg" />
+<img align="left" alt=“Photoshop” width="50px" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/photoshop-cc.svg" />
 
 <!---
 syafiqadibafham/syafiqadibafham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
